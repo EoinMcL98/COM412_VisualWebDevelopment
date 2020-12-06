@@ -1,0 +1,37 @@
+﻿@page
+@model CinemaBooking.Pages.Actor.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Actors</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Actors.ActorName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Actors.ActorName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Actors.FilmID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Actors.FilmID)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Actors.Title)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Actors.Title)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Actors.ActorID">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

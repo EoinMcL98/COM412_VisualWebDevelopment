@@ -1,0 +1,45 @@
+﻿@page
+@model CinemaBooking.Pages.Queries.Query2Model
+@{
+    ViewData["Title"] = "Search For Films with Actors";
+}
+
+<h2>Search For Films with Actors</h2>
+
+<form>
+    <p>
+        Actor Name: <input type="text" asp-for="SearchString" />
+        <input type="submit" value="Filter" />
+
+        Film Title: <input type="text" asp-for="SearchString" />
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Actor[0].ActorName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Actor[0].Title)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Actor)
+         {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ActorName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+               
+            </tr>
+         }
+    </tbody>
+</table>
+

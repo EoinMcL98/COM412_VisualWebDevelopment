@@ -1,0 +1,40 @@
+﻿@page
+@model CinemaBooking.Pages.Customer.DeleteModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Customers</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Customers.FirstName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Customers.FirstName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Customers.Surname)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Customers.Surname)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Customers.EmailAddress)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Customers.EmailAddress)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="Customers.CustomerID" />
+        <input type="submit" value="Delete" class="btn btn-default" /> |
+        <a asp-page="./Index">Back to List</a>
+    </form>
+</div>

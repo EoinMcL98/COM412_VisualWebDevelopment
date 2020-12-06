@@ -1,0 +1,311 @@
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.deps.json
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.runtimeconfig.json
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.runtimeconfig.dev.json
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.dll
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.pdb
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.Views.dll
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.Views.pdb
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.csprojAssemblyReference.cache
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.csproj.CoreCompileInputs.cache
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorAssemblyInfo.cache
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorAssemblyInfo.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.AssemblyInfoInputs.cache
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.AssemblyInfo.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.TagHelpers.input.cache
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.TagHelpers.output.cache
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorCoreGenerate.cache
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_LoginPartial.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorTargetAssemblyInfo.cache
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorTargetAssemblyInfo.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.Views.pdb
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.dll
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.pdb
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.csproj.CopyComplete
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\_CookieConsentPartial.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\_LoginPartial.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actors\Create.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actors\Delete.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actors\Details.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actors\Edit.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actors\Index.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Booking\Create.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Booking\Delete.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Booking\Details.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Booking\Edit.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Booking\Index.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Create.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Delete.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Details.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Edit.g.cshtml.cs
+P:\Data\Year 2\COM412\Assignment 2\CinemaBooking\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Index.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.deps.json
+C:\Users\User\Desktop\Assignment\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.runtimeconfig.json
+C:\Users\User\Desktop\Assignment\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.runtimeconfig.dev.json
+C:\Users\User\Desktop\Assignment\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.dll
+C:\Users\User\Desktop\Assignment\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.pdb
+C:\Users\User\Desktop\Assignment\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.Views.dll
+C:\Users\User\Desktop\Assignment\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.Views.pdb
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.AssemblyInfo.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.TagHelpers.input.cache
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.TagHelpers.output.cache
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorCoreGenerate.cache
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actors\Create.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actors\Delete.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actors\Details.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actors\Edit.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actors\Index.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Create.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Delete.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Details.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Edit.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Index.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Film\Create.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Film\Delete.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Film\Details.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Film\Edit.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Film\Index.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\_CookieConsentPartial.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\_LoginPartial.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.Views.pdb
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.dll
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.pdb
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.csproj.CopyComplete
+C:\Users\User\Desktop\Assignment\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.csprojAssemblyReference.cache
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.csproj.CoreCompileInputs.cache
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorAssemblyInfo.cache
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorAssemblyInfo.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.AssemblyInfoInputs.cache
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.AssemblyInfo.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.dll
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.pdb
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.deps.json
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.runtimeconfig.json
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.runtimeconfig.dev.json
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.dll
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.pdb
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.Views.dll
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.Views.pdb
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.TagHelpers.input.cache
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.TagHelpers.output.cache
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorCoreGenerate.cache
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Booking\Create.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Booking\Delete.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Booking\Details.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Booking\Edit.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Booking\Index.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Create.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Delete.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Details.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Edit.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Index.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Film\Create.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Film\Delete.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Film\Details.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Film\Edit.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Film\Index.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\_CookieConsentPartial.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\_LoginPartial.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorTargetAssemblyInfo.cache
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorTargetAssemblyInfo.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.Views.pdb
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.csproj.CopyComplete
+C:\Users\B00650670\source\repos\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.deps.json
+C:\Users\B00650670\source\repos\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.runtimeconfig.json
+C:\Users\B00650670\source\repos\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.runtimeconfig.dev.json
+C:\Users\B00650670\source\repos\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.dll
+C:\Users\B00650670\source\repos\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.pdb
+C:\Users\B00650670\source\repos\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.Views.dll
+C:\Users\B00650670\source\repos\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.Views.pdb
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.csprojAssemblyReference.cache
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.csproj.CoreCompileInputs.cache
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorAssemblyInfo.cache
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorAssemblyInfo.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.AssemblyInfoInputs.cache
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.AssemblyInfo.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.TagHelpers.input.cache
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.TagHelpers.output.cache
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorCoreGenerate.cache
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\_CookieConsentPartial.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\_LoginPartial.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorTargetAssemblyInfo.cache
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorTargetAssemblyInfo.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.Views.pdb
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.dll
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.pdb
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.csproj.CopyComplete
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actor\Create.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actor\Delete.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actor\Details.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actor\Edit.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actor\Index.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Booking\Create.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Booking\Delete.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Booking\Details.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Booking\Edit.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Booking\Index.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Create.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Delete.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Details.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Edit.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Index.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Film\Create.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Film\Delete.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Film\Details.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Film\Edit.g.cshtml.cs
+C:\Users\B00650670\source\repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Film\Index.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actor\Create.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actor\Delete.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actor\Details.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actor\Edit.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actor\Index.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Queries\Query3.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Queries\Query1.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Queries\Query1.g.cshtml.cs
+C:\Users\B00759566\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Queries\Query3.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.deps.json
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.runtimeconfig.json
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.runtimeconfig.dev.json
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.dll
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.pdb
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.Views.dll
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\bin\Debug\netcoreapp2.1\CinemaBooking.Views.pdb
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.csprojAssemblyReference.cache
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.csproj.CoreCompileInputs.cache
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorAssemblyInfo.cache
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorAssemblyInfo.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.AssemblyInfoInputs.cache
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.AssemblyInfo.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.TagHelpers.input.cache
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.TagHelpers.output.cache
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorCoreGenerate.cache
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actor\Create.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actor\Delete.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actor\Details.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actor\Edit.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Actor\Index.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Booking\Create.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Booking\Delete.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Booking\Details.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Booking\Edit.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Booking\Index.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Create.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Delete.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Details.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Edit.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Customer\Index.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Film\Create.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Film\Delete.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Film\Details.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Film\Edit.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Film\Index.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Queries\Query1.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Queries\Query3.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\_CookieConsentPartial.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\_LoginPartial.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorTargetAssemblyInfo.cache
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.RazorTargetAssemblyInfo.cs
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.Views.pdb
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.dll
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.pdb
+C:\Users\B00650670\Source\Repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\CinemaBooking.csproj.CopyComplete
+C:\Users\B00650670\source\repos\COM412 Coursework 1\CinemaBooking\obj\Debug\netcoreapp2.1\Razor\Pages\Queries\Query2.g.cshtml.cs
